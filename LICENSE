@@ -1,0 +1,42 @@
+MIT License
+
+Copyright (c) 2025 ELLI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+This software uses the following third-party libraries:
+
+### PySide6 (LGPL v3)
+- License: GNU Lesser General Public License v3.0
+- Homepage: https://www.qt.io/qt-for-python
+- Full license text: https://www.gnu.org/licenses/lgpl-3.0.html
+
+This application uses PySide6 and complies with LGPL v3 requirements.
+
+### Matplotlib (PSF License)
+- License: Python Software Foundation License
+- Homepage: https://matplotlib.org/
+
+### python-docx (MIT)
+- License: MIT License
+- Homepage: https://python-docx.readthedocs.io/
