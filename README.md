@@ -1,4 +1,4 @@
-# Dəli Kimii APP - Müəyyən zaman aralığı üçün Maliyyə və Məhsuldarlıq İdarəetmə Proqramı
+# Progressing App - Desktop Tool  - Müəyyən zaman aralığı üçün Maliyyə və Məhsuldarlıq İdarəetmə Proqramı
 
 ## Xüsusiyyətlər
  Gəlir/Xərc idarəetməsi
